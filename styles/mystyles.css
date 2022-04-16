@@ -1,0 +1,38 @@
+body {
+    background-image: url('https://media.istockphoto.com/photos/sand-background-beach-sand-texture-in-summer-sun-picture-id1268206583?k=20&m=1268206583&s=170667a&w=0&h=tp1JO1iTmCixguqBDcFo0BoGj1_7UL-bMLHzlnuH8_Q=');
+}
+a {
+    font-size:20px; 
+    font-family: arial;
+    font-variant: small-caps;
+    text-decoration-line: underline;
+    font-weight: 400
+
+}
+.weblinks {
+    color: mediumblue;
+    text-decoration-line: underline;
+    font-size:18px;
+    font-variant: normal;
+    font-weight: 450;
+}
+.bold{
+    font-weight: 502;
+    font-size: 23px;
+    font-variant: normal;
+    color: black;
+}
+ul{
+    font-weight:400;
+    color: black;
+    font-variant: normal;
+    font-size:20px
+    
+}
+.underline{
+    text-decoration-line: underline;
+    font-size:22px;
+    font-family: times new roman;
+    font-variant:normal;
+    color:mediumblue;
+    font-style:italic
